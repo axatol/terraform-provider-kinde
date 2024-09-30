@@ -9,8 +9,8 @@ github.com/agext/levenshtein v1.2.2/go.mod h1:JEDfjyjHDjOF/1e4FlBE/PkbqA9OfWu2ki
 github.com/apparentlymart/go-textseg/v12 v12.0.0/go.mod h1:S/4uRK2UtaQttw1GenVJEynmyUenKwP++x/+DdGV/Ec=
 github.com/apparentlymart/go-textseg/v15 v15.0.0 h1:uYvfpb3DyLSCGWnctWKGj857c6ew1u1fNQOlOtuGxQY=
 github.com/apparentlymart/go-textseg/v15 v15.0.0/go.mod h1:K8XmNZdhEBkdlyDdvbmmsvpAG721bKi0joRfFdHIWJ4=
-github.com/axatol/kinde-go v0.0.4 h1:KQkEVc76owuOPDfrEeTOnwiQqx4hXbrN8xpi626TOMo=
-github.com/axatol/kinde-go v0.0.4/go.mod h1:gpKIoxSxSR0O+uRN7TU6vfvUx635XS9bTk/G9Ny8VsE=
+github.com/axatol/kinde-go v0.0.5 h1:yCrp9u+9r7feGvvG5ZMsg5o5pXvk2D5jkeEy+PQWzyI=
+github.com/axatol/kinde-go v0.0.5/go.mod h1:gpKIoxSxSR0O+uRN7TU6vfvUx635XS9bTk/G9Ny8VsE=
 github.com/bufbuild/protocompile v0.4.0 h1:LbFKd2XowZvQ/kajzguUp2DC9UEIQhIq77fZZlaQsNA=
 github.com/bufbuild/protocompile v0.4.0/go.mod h1:3v93+mbWn/v3xzN+31nwkJfrEpAUwp+BagBSZWx+TP8=
 github.com/cloudflare/circl v1.3.7 h1:qlCDlTPz2n9fu58M0Nh1J/JzcFpfgkFHHX3O35r5vcU=
